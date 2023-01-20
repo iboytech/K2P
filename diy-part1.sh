@@ -15,5 +15,5 @@
 
 # Add a feed source
 # echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
-echo 'src-git netgear https://github.com/ysoyipek/luci-theme-netgear.git' >>feeds.conf.default
+# echo 'src-git netgear https://github.com/ysoyipek/luci-theme-netgear.git' >>feeds.conf.default
 
