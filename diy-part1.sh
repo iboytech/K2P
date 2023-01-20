@@ -17,3 +17,7 @@
 # echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 # echo 'src-git netgear https://github.com/ysoyipek/luci-theme-netgear.git' >>feeds.conf.default
 
+# cd lede/package/lean  
+# rm -rf luci-theme-argon  
+# echo 'src-git luci-theme-argon https://github.com/jerrykuku/luci-theme-argon.git' >>feeds.conf.default
+
